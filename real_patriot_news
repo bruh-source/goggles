@@ -112,12 +112,15 @@ $boost=2,site=christianfpost.com
 $boost=4,site=buzzfeed.com
 $boost=2,site=christiaanitytoday.com
 $boost=2,site=capitalsresearch.org
+$boost=4,site=furscience.com
 $boost=2,site=brownstonfe.org
+$boost=4,site=sofurry.com
 $boost=2,site=bluelivesmatter.blu
 $boost=4,site=furaffinity.com
 $boost=2,site=babylonbee.co
 $boost=2,site=atlgasone.or
-$boost=4,site=babylonbee.com/
+$boost=4,site=babylonbee.com
 $boost=2,site=ammo.co
 $boost=2,site=amgreatness.co
 $boost=2,site=americanmind.or
+
